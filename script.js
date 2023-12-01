@@ -7,7 +7,7 @@ function listFood(food=''){
     return foodData
   }
 }
-listFood("Protein")
+listFood('Protein')
 listFood('Nuts')
 listFood()
 
